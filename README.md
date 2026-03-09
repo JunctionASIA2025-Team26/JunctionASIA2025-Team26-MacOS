@@ -98,6 +98,14 @@ Mac에서 캡처한 인사이트가 iOS 디바이스로 실시간 동기화되�
 
 ---
 
+## 📰 Press Coverage
+
+- [이로운넷 — Junction Asia 2025 Team Go 보도](https://www.eroun.net/news/articleView.html?idxno=61807)
+- [경북일보 — Junction Asia 2025 Team Go 보도](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4050756)
+- [뉴시스 — Junction Asia 2025 Team Go 보도](https://www.newsis.com/view/NISX20250825_0003302339)
+
+---
+
 ## License
 
 Apache License 2.0
